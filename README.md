@@ -1,4 +1,4 @@
-# Inferência automática de assunto em comentários em páginas de redes sociais
+# Pré-processamento e clusterização de comentários de mídias sociais
 
 Criado e mantido por Daniel Marostica
 

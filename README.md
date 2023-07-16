@@ -17,7 +17,7 @@ Uma falha no desenvolvimento foi não ter sido feito o versionamento dos modelos
 
 ### Pré-processamento
 
-![Fluxo de limpeza](./extra/fluxo.jpg)
+![Fluxo de limpeza](./extra/fluxo.png)
 
 É importante para a clusterização que sinônimos sejam substituídos sempre que possível no arquivo `utils/config.py`. Remover termos desnecessários também.
 
